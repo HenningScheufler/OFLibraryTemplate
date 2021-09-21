@@ -1,0 +1,3 @@
+HelloWorldBCFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libHelloWorldBC

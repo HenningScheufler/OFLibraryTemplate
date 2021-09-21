@@ -1,0 +1,1 @@
+foamNewBC -f -s HelloWorldBC

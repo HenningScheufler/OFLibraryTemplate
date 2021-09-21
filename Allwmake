@@ -1,0 +1,6 @@
+#!/bin/bash
+
+wmake libso src/BC/HelloWorldBC
+wmake libso src/functionObjects/writeAvg
+
+wmake application/utilities/test-newApp
