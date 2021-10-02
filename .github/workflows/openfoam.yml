@@ -28,4 +28,4 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        py.test
+        openfoam2012 -c py.test
